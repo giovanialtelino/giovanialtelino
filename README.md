@@ -1,4 +1,4 @@
-Hello, I'm Giovani Altelino. :bowtie:
+Hello, I'm Giovani Altelino. :smiley:
 
 Once in some years I post at [Twitter](https://twitter.com/GioAltelino).
 You may also follow my blog, [giovanialtelino.com](https://www.giovanialtelino.com).
