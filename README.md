@@ -6,6 +6,4 @@ I'm Giovani Altelino. :smiley:
 
 I'm also a coffe, wine and beer enthusiast who is looking forward to run a marathon. :running: :wine_glass: :beer: :coffee:
 
-![Giovani's Github Stats](https://github-readme-stats.vercel.app/api?username=giovanialtelino&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanialtelino&layout=compact&hide=html,css)
+![Giovani's Github Stats](https://github-readme-stats.vercel.app/api?username=giovanialtelino&show_icons=true&count_private=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanialtelino&layout=compact&hide=html,css)
